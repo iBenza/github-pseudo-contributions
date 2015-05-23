@@ -3,6 +3,8 @@ GitHub Pseudo Contributions
 
 Chrome extension to make your pseudo contributions on GitHub.
 
+![contributions](contribution.png)
+
 Installation
 ============
 
