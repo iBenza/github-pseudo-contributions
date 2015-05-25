@@ -19,7 +19,8 @@ Then, add the extension from 'Load unpacked extensions' on `chrome://extensions/
 Usage
 =====
 
-Click a tile of contributions in the top of user's page.
+Click a tile of contributions in the top of user's page as paintings tools.
+While the shift-key is presses, the contributions are erased.
 
 License
 =======
